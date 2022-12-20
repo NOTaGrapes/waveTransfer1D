@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.402,D:\files\Документы\Embarcadero\Studio\Projects\1D transfer\Transfer.cpp=D:\files\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.840,=D:\files\pictures\my art\ico\graph_cpp32.ico</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,D:\files\Документы\Embarcadero\Studio\Projects\1D transfer\Transfer.h=D:\files\Документы\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.286,D:\files\Документы\Embarcadero\Studio\Projects\1D transfer\Project1.cbproj=D:\files\Документы\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,=D:\files\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,=D:\files\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,D:\files\Документы\Embarcadero\Studio\Projects\1D transfer\Transfer.dfm=D:\files\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,D:\files\Документы\Embarcadero\Studio\Projects\1D transfer\Project1PCH1.h=D:\files\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,=D:\files\Документы\Embarcadero\Studio\Projects\1D transfer\core.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
